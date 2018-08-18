@@ -1,0 +1,12 @@
+.center{
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+img{
+    width: 30%;
+    height: 30%;
+}
+
